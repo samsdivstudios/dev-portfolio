@@ -26,3 +26,4 @@ I’m not just learning to code—I’m learning to think like a developer. My g
 
 Check out my [projects](#), drop a star, or fork anything you find useful. And feel free to reach out—I'm always up for feedback, collabs, or just dev banter.
 
+🛠️ Edited by Sam in VS Code
